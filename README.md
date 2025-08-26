@@ -2,7 +2,7 @@
 
 Made by: Ahmad Arslan
 
-In this repository we have shared all the files that are required for my Final project.
+In this repository I have shared all the files that are required for my Final project.
 
 1. First of all, if you want to make new embeddings for a dataset you can run the Embeddings.ipynb notebook file on the Google colab to do so.
 2. The dataset we used is provided with the name SINES.pdf.
